@@ -5,7 +5,7 @@ html{
 
 h1{
 	color: blue;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 
@@ -38,3 +38,63 @@ img {
     width: 50%;
   }
   
+.embedded-header {
+    background-color: blue;
+    color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+.embedded-header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 25%;
+    height: 25%
+  }
+  
+  .btn {
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }  
+
+  .my resume:hover {
+    background-color: blue;
+    text-anchor: white;
+  }
+
+  /* Style all font awesome icons */
+.fa {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+
