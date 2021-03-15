@@ -7,6 +7,7 @@
 
 .embedded-header{
 	color: blue;
+	text-align: center;
 
 
 }
@@ -19,7 +20,7 @@
 }
 
 .fancy {
-	color:gray
+	color:black
 }
 
 .education {
@@ -30,3 +31,33 @@
 	color:blue
 }
  
+.nav-link {
+	color:blue
+}
+
+.name {
+	color:blue
+}
+
+.professional-experience { text-align: left;}
+
+
+.summary {text-align: center;}
+
+.duties { font-size: small;}
+
+.certification { font-size: small;}
+
+.list { font-size: small;}
+
+
+.references {text-align: center;}
+
+.social media {height: 20px;
+	           width: 20 px;
+			}
+
+.nav-item {font-size: large;
+color:blue}
+
+
