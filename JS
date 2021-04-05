@@ -1,0 +1,37 @@
+$(document).ready(function(){
+  $(".fa fa-facebook").hide();
+  $(".add").click(function(){
+    $(".expgroup").animate({width:'toggle'}, function(){
+      $(".add").toggleClass('rotated')
+    });
+  });
+});
+
+$(document).ready(function(){
+      $(".fa fa-twitter").hide();
+  $(".add").click(function(){
+    $(".expgroup").animate({width:'toggle'}, function(){
+      $(".add").toggleClass('rotated')
+    });
+  });
+});
+
+$(document).ready(function(){
+  $(".fa fa-instagram").hide();
+  $(".add").click(function(){
+    $(".expgroup").animate({width:'toggle'}, function(){
+      $(".add").toggleClass('rotated')
+    });
+  });
+});
+
+$(document).ready(function(){
+  $(".fa fa-linkedin").hide();
+  $(".add").click(function(){
+    $(".expgroup").animate({width:'toggle'}, function(){
+      $(".add").toggleClass('rotated')
+    });
+  });
+});
+
+
