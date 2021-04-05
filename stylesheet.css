@@ -112,22 +112,23 @@ font-size: 20px;}
 		background-color: #45a049;
 	  }
 	  
-	  /* Style the container/contact section */
+	 
 	  .container {
 		border-radius: 5px;
 		background-color: #f2f2f2;
 		padding: 10px;
+		text-align: center;
 	  }
 	  
-	  /* Create two columns that float next to eachother */
+	  
 	  .column {
-		float: left;
+		float: center;
 		width: 50%;
 		margin-top: 6px;
 		padding: 20px;
 	  }
 	  
-	  /* Clear floats after the columns */
+	  
 	  .row:after {
 		content: "";
 		display: table;
