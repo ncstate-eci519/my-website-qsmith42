@@ -65,15 +65,11 @@ font-size: 14px;
 }
 
 
-.summary {text-align: left;}
+.summary {text-align: center;}
 
 .resume {text-align:left}
 
-.smaller resume {text-align: left;}
-
-
-
-
+.Smaller resume {text-align: left;}
 
 
 .references {text-align: center;}
